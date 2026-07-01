@@ -32,18 +32,14 @@ This project helped me practice HTML page structure, CSS layout techniques, Flex
 
 ### Desktop Version
 
-> Insert your desktop screenshot here.
-
-Example:
-
-```md
-![Desktop Screenshot](screenshots/desktop.png)
-```
+<p float="left">
+  <img src="./assets/desktop-version.png" width="500" />
+</p>
 
 ### Mobile Version
 
 <p float="left">
-  <img src="./assets/desktop-version.png" width="500" />
+  <img src="./assets/mobile-version.png" width="500" />
 </p>
 
 ## 💡 Challenges and Learning
